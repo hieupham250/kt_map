@@ -58,7 +58,6 @@ public class Student {
         }
         System.out.println("Nhập tên sinh viên:");
         String name = sc.nextLine();
-        sc.nextLine();
         System.out.println("Nhập tuổi sinh viên:");
         int age = sc.nextInt();
         while (true) {
